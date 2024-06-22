@@ -1,5 +1,5 @@
-OdaAnime TelegramChatbot
-Developed by [Oyedele Bolaji]
+TelegramChatbot
+
 
 This is a Chatbot for Telegram that can generate Images using  stabble diffusion api with a prompt from the User and sends back the generated Image to the chat.
 
