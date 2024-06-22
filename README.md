@@ -3,6 +3,9 @@ TelegramChatbot
 
 This is a Chatbot for Telegram that can generate Images using  stabble diffusion api with a prompt from the User and sends back the generated Image to the chat.
 
+![image](https://github.com/abhistorm/Stable-TGBot-master/assets/74293846/e41d7824-c425-497e-902b-587fe50a8270)
+
+
 Implemented Commands
 
 Command	Description
